@@ -1,0 +1,28 @@
+{
+  "name": "edflib",
+  "version": "1.0.0",
+  "description": "a edflib writing on Nodejs",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtboy1995/edflib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtboy1995/edflib/issues"
+  },
+  "homepage": "https://github.com/dtboy1995/edflib#readme",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "moment": "^2.24.0",
+    "range": "0.0.3"
+  }
+}
