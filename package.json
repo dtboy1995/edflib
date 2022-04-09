@@ -22,7 +22,7 @@
   "homepage": "https://github.com/dtboy1995/edflib#readme",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "range": "0.0.3"
   }
 }
